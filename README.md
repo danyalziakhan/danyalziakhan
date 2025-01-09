@@ -1,4 +1,6 @@
-## Hi there 👋
+Hey! I'm **<a href="https://www.linkedin.com/in/danyalziakhan" target="_blank">danyalziakhan</a> (Danyal Zia Khan)**. 👋
+
+I'm a software developer from Pakistan 🇵🇰:
 
 - 🔭 I’m currently working on existing Laravel-based projects.
 - 🌱 I’m currently learning Laravel-based full-stack web development.
