@@ -14,4 +14,4 @@ You can find me on:
 * [GitHub as @danyalziakhan (you are here)](https://github.com/danyalziakhan)
 * [LinkedIn](https://www.linkedin.com/in/danyalziakhan)
 * [Facebook](https://www.facebook.com/danyal.zia.khan)
-* [Dev.to](https://dev.to/danyalzia)
+* [Dev.to](https://dev.to/danyalziakhan)
