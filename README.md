@@ -1,17 +1,26 @@
-Hey! I'm **<a href="https://www.linkedin.com/in/danyalziakhan" target="_blank">danyalziakhan</a> (Danyal Zia Khan)**. 👋
+## Hey! I'm [Danyal Zia Khan](https://www.linkedin.com/in/danyalziakhan) 👋  
 
-I'm a software developer from Pakistan. 🇵🇰
+I'm a **Software Developer & Automation Engineer** from Pakistan 🇵🇰, specializing in **Python, RPA, QA Testing, and Web Development**. I love solving complex problems, automating workflows, and enhancing software robustness.  
 
-- 🔭 I’m currently working on existing Laravel-based projects.
-- 🌱 I’m currently learning Laravel-based full-stack web development.
-- 👯 I’m looking to collaborate on libraries/modules that enhance the already existing solutions.
-- 🤔 I’m looking for help with personal branding and marketing.
-  
-I'm now working full time on my open source projects and the ecosystem. 🤓
+### 🔥 What I Do  
+- 🤖 **Building Automation & RPA Solutions** – Eliminating repetitive tasks with smart automation.  
+- 🕷 **Web Scraping & Data Extraction** – Developing powerful **Playwright, Selenium, and Scrapy** crawlers.  
+- 🏗 **Task & Process Automation** – Reducing human labor by automating **data entry, form filling, and reporting**.  
+- 🌐 **Full-Stack Web Development** – Working with **Laravel, FastAPI, React, and Vue**.  
+- 🛠 **Software Testing & QA** – Ensuring high-quality software with **Appium, Selenium, and Playwright**.  
+- 🤯 **System & API Automation** – Creating scripts for **data synchronization, job scheduling, and automated reporting**.  
 
-You can find me on:
+### 🚀 Currently  
+- 🔭 Working on **Laravel-based projects** and improving **full-stack web development skills**.  
+- 👯 Looking to **collaborate** on innovative libraries and open-source modules.  
+- 📢 Seeking **mentorship in personal branding & marketing**.  
 
-* [GitHub as @danyalziakhan (you are here)](https://github.com/danyalziakhan)
-* [LinkedIn](https://www.linkedin.com/in/danyalziakhan)
-* [Facebook](https://www.facebook.com/danyal.zia.khan)
-* [Dev.to](https://dev.to/danyalziakhan)
+### 🌍 Let's Connect!  
+📌 **GitHub**: [@danyalziakhan](https://github.com/danyalziakhan) (you are here!)  
+📌 **LinkedIn**: [Danyal Zia Khan](https://www.linkedin.com/in/danyalziakhan)  
+📌 **Dev.to**: [@danyalziakhan](https://dev.to/danyalziakhan)  
+📌 **Facebook**: [Danyal Zia Khan](https://www.facebook.com/danyal.zia.khan)  
+
+---
+
+💡 *I thrive on writing clean, efficient code and pushing the boundaries of software automation.* Let's build something great together! 🚀  
