@@ -1,6 +1,6 @@
 ## Hey there, I’m [Danyal Zia Khan](https://www.linkedin.com/in/danyalziakhan) 👋  
 
-I’m a **Software Developer & Automation Engineer** from Pakistan 🇵🇰. Most of my work revolves around **Python, RPA, Web Scraping, and Full-Stack Development** — basically anything that makes systems smarter and people’s lives easier.  
+I’m a **Software Developer & Automation Engineer** from Pakistan 🇵🇰. Most of my work revolves around **Python, RPA, Web Scraping, and Full-Stack Development**, basically anything that makes systems smarter and people’s lives easier.  
 
 I enjoy tackling problems that look messy at first and breaking them down into simple, automated solutions. Whether it’s scraping thousands of product pages, syncing systems through APIs, or building complete web apps, I like finding the cleanest and most efficient way to get the job done.  
 
