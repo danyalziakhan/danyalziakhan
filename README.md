@@ -20,7 +20,8 @@ My recent work focuses on **applied AI and intelligent automation**, especially 
 ### What I'm Doing Right Now  
 - Building **client focused AI tools** that solve real business problems  
 - Turning **AI models into usable features**, not just demos  
-- Open to **freelance, contract, or long term roles** involving AI applications, automation, or data driven systems  
+- Exploring automation of **digital twin creation workflows**, including custom tooling and addons for 3D modeling software, using AI models to generate 3D geometry and estimate real-world dimensions from single images, and generating structures programmatically from blueprint specifications  
+- Open to **freelance, contract, or long term roles** involving AI applications, automation, or data driven systems
 
 ### A Note on AI Transparency  
 Almost everything I build is written by hand, line by line, with a lot of care and time put into every project. Over the past few months I have started integrating AI assistance tools like Claude to improve certain parts of older software or add new features on top of an existing foundation. Whenever that is the case, it will be clearly stated in the repository. I think being upfront about it is part of writing honest, maintainable software.
